@@ -9,11 +9,17 @@ Input your Discord Webhook URL and choose a delay if you want to. And change the
 
 Requirements:
   requests
+  
   threading
+  
   time
+  
   random
+  
   datetime
+  
   discord_webhook
+  
   lxml
   
 Wrote this in 5 mintues 
