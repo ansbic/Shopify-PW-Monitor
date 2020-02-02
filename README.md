@@ -8,19 +8,20 @@ if you want to discuss about coding you can join my coding server https://discor
 Input your Discord Webhook URL and choose a delay if you want to. And change the store url if need it.
 
 Requirements:
-  requests
+
+  -requests
   
-  threading
+  -threading
   
-  time
+  -time
   
-  random
+  -random
   
-  datetime
+  -datetime
   
-  discord_webhook
+  -discord_webhook
   
-  lxml
+  -lxml
   
 Wrote this in 5 mintues 
 
